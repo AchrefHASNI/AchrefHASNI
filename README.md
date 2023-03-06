@@ -18,14 +18,14 @@
 ### 💥 Latest React/Node apps
 <br>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/AchrefHASNI/React_Password_Generator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AchrefHASNI&repo=React_Password_Generator&show_owner=true&theme=react" />
 
 </p>
 
 
-<p align="right">
+<p align="center">
 <a href="https://github.com/AchrefHASNI/ToDo-App-MERN">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AchrefHASNI&repo=ToDo-App-MERN&show_owner=true&theme=react" />
 
