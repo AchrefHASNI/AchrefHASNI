@@ -18,16 +18,22 @@
 ### 💥 Latest React/Node apps
 <br>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AchrefHASNI/React_Password_Generator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AchrefHASNI&repo=React_Password_Generator&show_owner=true&theme=react" />
 
 </p>
 
 
-<p align="center">
+<p align="right">
 <a href="https://github.com/AchrefHASNI/ToDo-App-MERN">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AchrefHASNI&repo=ToDo-App-MERN&show_owner=true&theme=react" />
+
+</p>
+  
+  <p align="center">
+<a href="https://github.com/AchrefHASNI/Visa-Card-Generator-ReactJs-Vite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AchrefHASNI&repo=Visa-Card-Generator-ReactJs-Vite&show_owner=true&theme=react" />
 
 </p>
 
