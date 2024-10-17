@@ -15,8 +15,21 @@
 ![ExpressJS](https://img.shields.io/badge/Express.JS-6DA55F?style=for-the-badge&logo=ExpressJS&logoColor=white)
 
 
-### 💥 Latest React/Node apps
+### 💥 Latest React/Node apps or scripts
 <br>
+
+<p align="center">
+<a href="https://github.com/AchrefHASNI/Anti-scrape-shield-js">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AchrefHASNI&repo=Anti-scrape-shield-js&show_owner=true&theme=react" />
+
+</p>
+
+<p align="center">
+<a href="https://github.com/AchrefHASNI/Expressjs-mongodb-prisma-postgresql-auth-boilerplate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AchrefHASNI&repo=Expressjs-mongodb-prisma-postgresql-auth-boilerplate&show_owner=true&theme=react" />
+
+</p>
+
 
 <p align="center">
 <a href="https://github.com/AchrefHASNI/React_Password_Generator">
